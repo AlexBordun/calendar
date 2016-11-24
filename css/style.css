@@ -1,0 +1,26 @@
+table th,
+table td {
+	border: 1px solid grey;
+	padding: 5px;
+	text-align: center;
+}
+table {
+	margin: 10px auto;
+}
+body {
+	background-image: url(../img/bg.jpg);
+	background-size: cover;
+}
+
+.one {
+	background-image: url(../img/one.jpg);
+}
+
+.two {
+	background-image: url(../img/two.jpg);
+	background-size: cover;
+}
+
+#main {
+	text-align: center;
+}
